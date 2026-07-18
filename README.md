@@ -35,3 +35,9 @@ EDA-Project/
 
 ## Author
 **Akash V**
+
+🎓 M.Sc. Data Science
+
+💻 Python | Machine Learning | Artificial Intelligence
+
+📊 Passionate about transforming data into intelligent solutions.
